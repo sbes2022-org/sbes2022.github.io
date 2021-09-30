@@ -87,8 +87,10 @@ For journal-first papers published in IEEE Software, only peer-reviewed research
 Authors interested in presenting journal-first papers at SBES 2022 should send an email 
 to the Program Committee Chairs with the subject "Journal-First - SBES 2022" by June 28, 2022. 
 The following information must be provided: 
-(i) paper title; (ii) list of authors; (iii) link to the paper; 
-and (iv) a short statement on how the work satisfies the criteria above.
+  (i) paper title; 
+  (ii) list of authors; 
+  (iii) link to the paper; and 
+  (iv) a short statement on how the work satisfies the criteria above.
 
 ## Best Paper Award
 
