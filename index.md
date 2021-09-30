@@ -3,7 +3,7 @@ layout: default
 ---
 
 # SBES 2022
-36th Brazilian Symposium on Software Engineering
+### 36th Brazilian Symposium on Software Engineering
 
 ## Call for Papers – Research Track
 
