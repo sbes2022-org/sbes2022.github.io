@@ -41,10 +41,15 @@ Submissions must be no longer than 10 pages, including all figures and reference
 
 Papers should be electronically submitted through JEMS. 
 All technical research papers should indicate after the abstract the language and one or more of the aforementioned categories. 
-Submissions that are not in compliance with the required submission format, are out of the scope of the symposium, or were submitted or published in any other forum (conference or journal) will be rejected without review. 
+Submissions that are not in compliance with the required submission format, are out of the scope of the symposium, 
+or were submitted or published in any other forum (conference or journal) will be rejected without review. 
 All other papers will be reviewed by at least three Program Committee members. 
+
+### Rebuttal
+
 During the review process, a rebuttal may be requested. 
-In this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. 
+In this case, authors will have access to reviews and may argue and answer questions 
+from the referees before the final acceptance/rejection decision. 
 The rebuttal is limited to a plain text up to 5,000 characters (including spaces).
 
 ## Double-Blind Submission
@@ -60,6 +65,17 @@ Both author names and affiliations must be omitted. In addition, the following r
 
 After the paper acceptance, all the paper information (without anonymization) can be included in the camera-ready version.
 Any questions about the preparation of the paper following the double-blind rules can be sent to the Program Committee Chairs.
+
+## Review Criteria
+
+Original papers in the Research track are reviewed based on 
+originality, relevance, technical soundness, and clarity of presentation. 
+
++ Originality
++ Relevance
++ Technical Soundnenss
++ Presentation
++ Transparency
 
 ## Journal-First Submissions
 
@@ -86,11 +102,27 @@ For journal-first papers published in IEEE Software, only peer-reviewed research
 
 Authors interested in presenting journal-first papers at SBES 2022 should send an email 
 to the Program Committee Chairs with the subject "Journal-First - SBES 2022" by June 28, 2022. 
-The following information must be provided: 
-  (i) paper title; 
-  (ii) list of authors; 
-  (iii) link to the paper; and 
-  (iv) a short statement on how the work satisfies the criteria above.
+The following information must be provided: (i) paper title; (ii) list of authors; 
+(iii) link to the paper; and (iv) a short statement on how the work satisfies the criteria above.
+
+## Open Science Policies
+
+The research track of ICSE 2022 is governed by the SBES 2022 Open Science policies. 
+In summary, the steering principle is that all research results should be accessible to the public and,
+if possible, empirical studies should be reproducible. 
+In particular, we actively support the adoption of open data and open source principles and 
+encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability. 
+Note that sharing research data is not mandatory for submission or acceptance. 
+However, sharing is expected to be the default, and non-sharing needs to be justified. 
+We recognize that reproducibility or replicability is not a goal in qualitative research and that, 
+similar to industrial studies, qualitative studies often face challenges in sharing research data. 
+
+Upon acceptance, authors have the possibility to separately submit their supplementary material 
+to the ICSE 2022 Artifact Evaluation track, for recognition of artifacts that are 
+reusable, available, replicated or reproduced.
+
+Any questions about the preparation of the paper following the SBES 2022 open science policies
+can be sent to the Open Science Chair.
 
 ## Best Paper Award
 
