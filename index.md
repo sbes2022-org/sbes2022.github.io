@@ -112,6 +112,22 @@ The progress of scientific growth depends on dedicated colleagues, who aim to fu
 + Christina von Flach (UFBA)
 + Elisa Nakagawa (ICMC-USP)
 
+### SBES Steering Committee
+
++ Christina von Flach (UFBA, Brazil)
++ Elisa Yumi Nakagawa (USP, Brazil)
++ Fernando Castor (UFPE, Brazil)
++ Ingrid
++ Márcio Ribeiro (UFAL, Brazil)
++ Marco Aurélio Gerosa (Northern Arizona University, USA)
++ Marco Túlio Valente (UFMG, Brazil)
++ Rafael Prikladnicki (PUCRS, Brazil)
++ Rohit
++ Tayana Conte (UFAM, Brazil)
+
+### Open Science Chair
+
++ xxx (UFPE, Brazil)
 
 ### Program Committee
 
