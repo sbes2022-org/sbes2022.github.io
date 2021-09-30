@@ -61,6 +61,35 @@ Both author names and affiliations must be omitted. In addition, the following r
 After the paper acceptance, all the paper information (without anonymization) can be included in the camera-ready version.
 Any questions about the preparation of the paper following the double-blind rules can be sent to the Program Committee Chairs.
 
+## Journal-First Submissions
+
+SBES is partnering with international journals to incorporate journal-first papers into the SBES 2022 Research Track. 
+Two journals, IEEE Software and the Journal of Software Engineering Research and Development (JSERD), 
+have confirmed their partnership with SBES 20XX. 
+Authors of journal-first papers accepted in those journals will be invited to present their research work at SBES. 
+This offers an opportunity for authors to discuss their work with the community as well as enrich the technical program of SBES.
+
+The following evaluation criteria will be used to select journal-first papers to SBES 2021:
+
+- the paper describes original results that are not extensions of previous conference papers;
+- the paper was accepted for publication in the journal no earlier than January 1, 2020; and
+- the paper has not been presented at any other conference as a journal-first.
+
+The selected papers will be presented in the technical program of the SBES Research Track. 
+At least one author per selected journal-first paper will need to register at CBSoft 2022 
+and attend the symposium to present it.
+
+For journal-first papers published in JSERD, submissions of papers are accepted from the following categories: 
+research articles, case studies, and reviews. 
+For journal-first papers published in IEEE Software, only peer-reviewed research papers 
+(not editorially-reviewed or invited papers) are accepted.
+
+Authors interested in presenting journal-first papers at SBES 2022 should send an email 
+to the Program Committee Chairs with the subject "Journal-First - SBES 2022" by June 28, 2022. 
+The following information must be provided: 
+(i) paper title; (ii) list of authors; (iii) link to the paper; 
+and (iv) a short statement on how the work satisfies the criteria above.
+
 ## Best Paper Award
 
 Every year, the SBES Steering Committee appoints a committee to award the symposium's best papers. 
