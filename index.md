@@ -1,5 +1,5 @@
 ---
-layout = default
+layout: default
 ---
 
 # SBES 2022
