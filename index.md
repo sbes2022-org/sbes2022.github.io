@@ -4,6 +4,8 @@ layout: default
 
 # SBES 2022
 ### 36th Brazilian Symposium on Software Engineering
+   September XX, 2022 
+   Uberlândia, Minas Gerais
 
 ## Call for Papers – Research Track
 
@@ -17,16 +19,21 @@ The symposium proceedings will be published in the ACM Digital Library.
 
 ## Important Dates
 
-TBD.
+* Paper registration (abstract submission): TBD.
+* Paper submission: TBD.
+* Rebuttal period: TBD.
+* Author notification: TBD.
+* Camera-ready: TBD.
+
+The acceptance of a paper implies that at least one of its authors will register at CBSoft 2022 to present it. 
 
 ## Topics of Interest
 
 TBD.
 
-## Paper Preparation, Submission, and Review
+## Paper Preparation
 
 Papers can be submitted in Portuguese or English. Submission in English is strongly encouraged. 
-The acceptance of a paper implies that at least one of its authors will register at CBSoft 2022 to present it. 
 All submissions must be in Adobe Portable Document Format (PDF) and must comply with the ACM 2-column conference format ([ACM_SigConf](https://www.acm.org/publications/proceedings-template)). 
 
 LaTeX users must use the ```acmart.cls``` class provided in the template with the conference format enabled at the document preamble:
@@ -39,18 +46,12 @@ Authors must use the ACM-Reference-Format.bst bibliography style also provided i
 
 Submissions must be no longer than 10 pages, including all figures and references.
 
+## Submission
+
 Papers should be electronically submitted through JEMS. 
 All technical research papers should indicate after the abstract the language and one or more of the aforementioned categories. 
 Submissions that are not in compliance with the required submission format, are out of the scope of the symposium, 
 or were submitted or published in any other forum (conference or journal) will be rejected without review. 
-All other papers will be reviewed by at least three Program Committee members. 
-
-### Rebuttal
-
-During the review process, a rebuttal may be requested. 
-In this case, authors will have access to reviews and may argue and answer questions 
-from the referees before the final acceptance/rejection decision. 
-The rebuttal is limited to a plain text up to 5,000 characters (including spaces).
 
 ## Double-Blind Submission
 
@@ -68,7 +69,7 @@ Any questions about the preparation of the paper following the double-blind rule
 
 ## Review Criteria
 
-Original papers in the Research track are reviewed based on 
+Original papers in the Research track will be reviewed by at least three Program Committee members, based on their
 originality, relevance, technical soundness, and clarity of presentation. 
 
 + Originality
@@ -76,6 +77,34 @@ originality, relevance, technical soundness, and clarity of presentation.
 + Technical Soundnenss
 + Presentation
 + Transparency
+
+The acceptance of a paper implies that at least one of its authors will register at CBSoft 2022 to present it. 
+
+## Rebuttal
+
+During the review process, a rebuttal may be requested. 
+In this case, authors will have access to reviews and may argue and answer questions 
+from the referees before the final acceptance/rejection decision. 
+The rebuttal is limited to a plain text up to 5,000 characters (including spaces).
+
+## Open Science Policies
+
+The research track of ICSE 2022 is governed by the SBES 2022 Open Science policies. 
+In summary, the steering principle is that all research results should be accessible to the public and,
+if possible, empirical studies should be reproducible. 
+In particular, we actively support the adoption of open data and open source principles and 
+encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability. 
+Note that sharing research data is not mandatory for submission or acceptance. 
+However, sharing is expected to be the default, and non-sharing needs to be justified. 
+We recognize that reproducibility or replicability is not a goal in qualitative research and that, 
+similar to industrial studies, qualitative studies often face challenges in sharing research data. 
+
+Upon acceptance, authors have the possibility to separately submit their supplementary material 
+to the ICSE 2022 Artifact Evaluation track, for recognition of artifacts that are 
+reusable, available, replicated or reproduced.
+
+Any questions about the preparation of the paper following the SBES 2022 open science policies
+can be sent to the Open Science Chair.
 
 ## Journal-First Submissions
 
@@ -105,25 +134,6 @@ to the Program Committee Chairs with the subject "Journal-First - SBES 2022" by 
 The following information must be provided: (i) paper title; (ii) list of authors; 
 (iii) link to the paper; and (iv) a short statement on how the work satisfies the criteria above.
 
-## Open Science Policies
-
-The research track of ICSE 2022 is governed by the SBES 2022 Open Science policies. 
-In summary, the steering principle is that all research results should be accessible to the public and,
-if possible, empirical studies should be reproducible. 
-In particular, we actively support the adoption of open data and open source principles and 
-encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability. 
-Note that sharing research data is not mandatory for submission or acceptance. 
-However, sharing is expected to be the default, and non-sharing needs to be justified. 
-We recognize that reproducibility or replicability is not a goal in qualitative research and that, 
-similar to industrial studies, qualitative studies often face challenges in sharing research data. 
-
-Upon acceptance, authors have the possibility to separately submit their supplementary material 
-to the ICSE 2022 Artifact Evaluation track, for recognition of artifacts that are 
-reusable, available, replicated or reproduced.
-
-Any questions about the preparation of the paper following the SBES 2022 open science policies
-can be sent to the Open Science Chair.
-
 ## Best Paper Award
 
 Every year, the SBES Steering Committee appoints a committee to award the symposium's best papers. 
@@ -136,6 +146,8 @@ SBES 2022 acknowledges the generosity of the reviewers who give their time and b
 The progress of scientific growth depends on dedicated colleagues, who aim to further the development of technology by offering their attention and passion when reviewing the papers. A certificate of Outstanding Reviewer will be awarded to reviewers who submitted outstanding quality reviews to SBES. The evaluation will be based on the quality and usefulness of reviews, as well as participation during PC discussion.
 
 ## Most Influential Paper
+
+The acceptance of a paper implies that at least one of its authors will register at CBSoft 2022 to present it. 
 
 ## Organization
 
