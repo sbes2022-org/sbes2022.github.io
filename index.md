@@ -147,7 +147,7 @@ The progress of scientific growth depends on dedicated colleagues, who aim to fu
 
 ## Most Influential Paper
 
-The acceptance of a paper implies that at least one of its authors will register at CBSoft 2022 to present it. 
+The SBES Steering Committee ...
 
 ## Organization
 
